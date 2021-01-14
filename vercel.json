@@ -1,0 +1,10 @@
+{
+  "alias": "scott",
+  "public": true,
+  "routes": [
+    {
+      "src": "/api/switcherContent.js",
+      "methods": ["POST"]
+    }
+  ]
+}
