@@ -1,9 +1,3 @@
-- title: Portfolio
-  pages:
-    - path: /portfolio
-- title: Blog
-  pages:
-    - path: /blog
 - title: Contact
   pages:
     - path: /contact
